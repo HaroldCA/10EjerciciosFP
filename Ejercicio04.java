@@ -10,7 +10,11 @@ public class Ejercicio04{
       System.out.print("Ingresa un numero: ");
       n = in.nextInt();
       if (n>0);
+<<<<<<< HEAD
       System.out.print("El numero  "+n+" elevado al cubo es: "+n*n*n);
+=======
+        System.out.print("El numero  "+n+" elevado al cubo es: "+n*n*n);
+>>>>>>> 7c843f15e4dbd4739852e475a717263cdcbd3e25
       System.out.println("");
     }
   }
